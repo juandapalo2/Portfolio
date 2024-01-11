@@ -45,16 +45,20 @@
 -  Decision Tree Classifier
 -  Random Forest, hyperparameters, train a RF model,
 -  Interpretability study
+  
 **Project 2: [Machine Learning](https://github.com/juandapalo2/Machine-Learning)**
 - Decision Trees model.
 -  Random Forest model. 
 -  Gradient Boosting Trees.
 -  confusion matrix, Precision-Recall, and Comparisson Table.
+  
 **Proyect 3: [Netflix Data Set Analysis](https://github.com/juandapalo2/Netflix-Data-Analysis)**
 - Data Selection
 - Cleaning data
 - Filters
 - Data Reorganization
+
+
   
  
   
