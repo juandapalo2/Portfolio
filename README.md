@@ -33,8 +33,8 @@
 - project
 
 ### Projects
-# [Statistican Learning] (https://github.com/juandapalo2/Aprendizaje-Est-distico))
+**[Statistican Learning](https://github.com/juandapalo2/Aprendizaje-Est-distico)**
 
-# [Machine Learning] (https://github.com/juandapalo2/Machine-Learning)
+**[Machine Learning](https://github.com/juandapalo2/Machine-Learning)**
  
   
