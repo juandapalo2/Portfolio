@@ -5,8 +5,10 @@
 - University Externado de Colombia
   - Emphasis in computational finance and data analysis in python, Rstudio and SQL.
   - Strong skills in analysis, visualization tools such as powerBI and Tableu.
+
 **Google Data Analytics Professional Certificate (_2024_)**
 - Google Career Certificates
+
 **Certificate in Corporate Finance (_2023_)**
 - Colegio de Estudios Superiores de Administración (CESA)
   - Emphasis in 
