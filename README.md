@@ -8,15 +8,21 @@
 
 **Google Data Analytics Professional Certificate (_2024_)**
 - Google Career Certificates
+  - visualize and present data findings in dashboards, presentations and commonly used visualization platforms, data cleaning, analysis, & visualization and tools spreadsheets, SQL, R programming, Tableau,organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
 
 **Certificate in Corporate Finance (_2023_)**
 - Colegio de Estudios Superiores de Administración (CESA)
-  - Emphasis in 
+  - Emphasis on E.S.G. business valuation, budgeting, cash flow, projections and consolidation, financing, Etc.
 
 ### Work Experience
 **Corporate compensation analyst (_June 2023 - Present_)**
-- project
-- project
+- Corporate compensation analyst for Colombia, Mexico, Chile and the United States.
+-	Collecting, cleaning and analyzing historical compensation data to identify meaningful patterns.
+- Manage large and complex databases, ensuring completeness and accuracy.
+- Use query tools and languages to extract relevant data.
+- Create dashboards and interactive visualizations to effectively communicate results.
+- Collaborate with teams from HR, Finance and other departments to understand and address compensation needs
+- Participate in strategic planning and advise on data-driven decisions.
 
 **Compensation Consultant Analyst (_June 2022 - June 2023_)**
 - project
@@ -27,5 +33,5 @@
 - project
 
 ### Projects
-
+ 
   
