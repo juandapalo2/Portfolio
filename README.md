@@ -1,4 +1,4 @@
-# Data Scientist
+# Professional in Finance and International Relations,Corporate Finance and Data analisis and visualisation | Python, Rstudio, SQL, PowerBI, Tableau
 
 ### Education 
 **Bachelor in Finance and International Relations (_2023_)**
