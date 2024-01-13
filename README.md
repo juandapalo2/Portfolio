@@ -1,4 +1,4 @@
-# Professional in Finance and International Relations,Corporate Finance and Data analisis and visualisation 
+# Professional in Finance and International Relations,Corporate Finance, Data analisis and visualisation 
 ## Python, Rstudio, SQL, PowerBI, Tableau
 
 ### Education 
