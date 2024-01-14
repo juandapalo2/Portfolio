@@ -40,6 +40,7 @@
 
 ### Projects
 **Project 1: [Statistical Learning](https://github.com/juandapalo2/Aprendizaje-Est-distico)**
+Testing different statistical methods
 -  Linear Discriminant Analysis
 -  Quadratic Discriminant Analysis
 -  K Neighbors Classifier
@@ -48,17 +49,25 @@
 -  Interpretability study
   
 **Project 2: [Machine Learning](https://github.com/juandapalo2/Machine-Learning)**
+Prediction of Breast cancer
 - Decision Trees model.
 -  Random Forest model. 
 -  Gradient Boosting Trees.
 -  confusion matrix, Precision-Recall, and Comparisson Table.
   
 **Proyect 3: [Netflix Data Set Analysis](https://github.com/juandapalo2/Netflix-Data-Analysis)**
+Asking questions that can be answered based on the database information, making it simpler
 - Data Selection
 - Cleaning data
 - Filters
 - Data Reorganization
 
+**Proyect 4: [House Pricing Prediction](https://github.com/juandapalo2/House-Pricing/blob/main/Price_Prediction.ipynb)**
+Prediction of housing prices based on different parameters
+- Data Selection
+- Cleaning data
+- Prediction
+- Random Forest
 
   
  
