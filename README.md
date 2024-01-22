@@ -1,5 +1,5 @@
 # Professional in Finance and International Relations,Corporate Finance, Data analisis and visualization 
-## Python, Rstudio, SQL, PowerBI, Tableau
+## **Python, Rstudio, SQL, Java, PowerBI, Tableau, Looker studio ** 
 
 ### Education 
 **Bachelor in Finance and International Relations (_2023_)**
@@ -9,7 +9,7 @@
 
 **Google Data Analytics Professional Certificate (_2024_)**
 - Google Career Certificates
-  - visualize and present data findings in dashboards, presentations and commonly used visualization platforms, data cleaning, analysis, & visualization and tools spreadsheets, SQL, R programming, Tableau,organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
+  - visualize and present data findings in dashboards, presentations and commonly used visualization platforms, data cleaning, analysis, & visualization and tools spreadsheets, SQL, R programming, Tableau,organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming.
 
 **Certificate in Corporate Finance (_2023_)**
 - Colegio de Estudios Superiores de Administración (CESA)
